@@ -10,7 +10,7 @@
   <li><strong>💬 Discord Bot Commands:</strong>
     <ul>
       <li><code>!exc-&lt;code&gt;</code> — 🧠 Execute arbitrary Python code remotely.</li>
-      <li><code>!exc-ramfucker-&lt;size&gt;</code> — 💥 Send large strings to test memory usage.</li>
+      <li><code>!exc-ramfucker-&lt;size&gt;</code> — 💥 Send large strings to stress memory usage.</li>
       <li><code>!getkey</code> — 📄 Retrieve the logged keystrokes.</li>
       <li><code>!help</code> — 📘 Show available commands.</li>
     </ul>
